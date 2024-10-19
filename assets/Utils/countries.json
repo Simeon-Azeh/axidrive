@@ -1,0 +1,13 @@
+[
+    { "name": "Nigeria", "code": "234", "flag": "🇳🇬" },
+    { "name": "Ghana", "code": "233", "flag": "🇬🇭" },
+    { "name": "Kenya", "code": "254", "flag": "🇰🇪" },
+    { "name": "South Africa", "code": "27", "flag": "🇿🇦" },
+    { "name": "Uganda", "code": "256", "flag": "🇺🇬" },
+    { "name": "Tanzania", "code": "255", "flag": "🇹🇿" },
+    { "name": "Zimbabwe", "code": "263", "flag": "🇿🇼" },
+    { "name": "Rwanda", "code": "250", "flag": "🇷🇼" },
+    { "name": "Senegal", "code": "221", "flag": "🇸🇳" },
+    { "name": "Cameroon", "code": "237", "flag": "🇨🇲" }
+  ]
+  
